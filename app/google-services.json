@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774939458785",
+    "firebase_url": "https://thenextbistar-default-rtdb.firebaseio.com",
+    "project_id": "thenextbistar",
+    "storage_bucket": "thenextbistar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774939458785:android:fa4f28e866315bb4f90ba0",
+        "android_client_info": {
+          "package_name": "com.personalproject.thenextbistar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774939458785-k75djrrv6qq7ul2mo0996mg0eaq1tip0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt8nqSA-QTPhjBPuc1yRT6eU_amLdBOLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774939458785-k75djrrv6qq7ul2mo0996mg0eaq1tip0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
